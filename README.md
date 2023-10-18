@@ -1,4 +1,4 @@
-#Lab3Web
+# Lab3Web
 
 ### Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 
@@ -101,7 +101,8 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 
 2. Tambahkan layout untuk menu Contact
    => yang berisi form isian: nama, email, message, dll
-   ![Gambar34](ss/ss34.png)
+
+![Gambar34](ss/ss34.png)
 
 ![Gambar35](ss/ss35.png)
 
