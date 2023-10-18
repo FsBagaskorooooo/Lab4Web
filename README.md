@@ -93,7 +93,7 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 ## Pertanyaan dan Tugas
 
 ### 1. Tambahkan Layout untuk menu About
-   # => buat single layout yang berisi deskripsi, portfolio, dll
+   ### => buat single layout yang berisi deskripsi, portfolio, dll
 
 ![Gambar31](ss/ss31.png)
 
@@ -102,7 +102,7 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 ![Gambar33](ss/ss33.png)
 
 ### 2. Tambahkan layout untuk menu Contact
-   # => yang berisi form isian: nama, email, message, dll
+   ### => yang berisi form isian: nama, email, message, dll
 
 ![Gambar34](ss/ss34.png)
 
